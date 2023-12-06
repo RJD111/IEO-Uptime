@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "melbury-office",
     "status": "down",
-    "uptime": "46.87%",
-    "uptimeDay": "46.87%",
-    "uptimeWeek": "46.87%",
-    "uptimeMonth": "46.87%",
-    "uptimeYear": "46.87%",
+    "uptime": "14.83%",
+    "uptimeDay": "14.83%",
+    "uptimeWeek": "14.83%",
+    "uptimeMonth": "14.83%",
+    "uptimeYear": "14.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 1
+      "2023-12-06": 7
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gates-at-lions-lodge",
     "status": "down",
-    "uptime": "89.32%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "89.32%",
-    "uptimeMonth": "89.32%",
-    "uptimeYear": "89.32%",
+    "uptime": "17.30%",
+    "uptimeDay": "17.30%",
+    "uptimeWeek": "17.30%",
+    "uptimeMonth": "17.30%",
+    "uptimeYear": "17.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 0
+      "2023-12-06": 6
     }
   }
 ]
