@@ -10,7 +10,7 @@ sites:
   - name: Melbury House test
     check: "tcp-ping"
     url: 185.67.235.5
-    port: 53
+    port: 80
   - name: Google DNS
     check: "tcp-ping"
     url: 8.8.8.8
