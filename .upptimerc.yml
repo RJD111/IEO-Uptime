@@ -6,9 +6,11 @@ sites:
   - name: Melbury Office
     check: "tcp-ping"
     url: 185.67.235.5
+    port: 53
   - name: Gates at Lions Lodge
     check: "tcp-ping"
     url: 82.152.45.134
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
