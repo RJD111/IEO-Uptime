@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "melbury-office",
     "status": "down",
-    "uptime": "58.65%",
-    "uptimeDay": "58.65%",
-    "uptimeWeek": "58.65%",
-    "uptimeMonth": "58.65%",
-    "uptimeYear": "58.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-12-06": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gates at Lions Lodge",
@@ -25,18 +23,34 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gates-at-lions-lodge",
     "status": "down",
-    "uptime": "63.02%",
-    "uptimeDay": "63.02%",
-    "uptimeWeek": "63.02%",
-    "uptimeMonth": "63.02%",
-    "uptimeYear": "63.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-12-06": 6
-    }
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Google DNS 2",
+    "url": "8.8.8.8",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "google-dns-2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2,
+    "timeDay": 2,
+    "timeWeek": 2,
+    "timeMonth": 2,
+    "timeYear": 2,
+    "dailyMinutesDown": {}
   }
 ]
